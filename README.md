@@ -1,8 +1,4 @@
 
-Certainly! Here’s the entire README content combined into a single file:
-
-markdown
-Copy code
 # Online Learning Platform with Live Coding
 
 Welcome to the **Online Learning Platform with Live Coding**! This application provides a comprehensive platform for learning coding and development skills through interactive courses, live coding sessions, coding challenges, and peer reviews.
