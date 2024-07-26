@@ -29,7 +29,7 @@ Welcome to the **Online Learning Platform with Live Coding**! This application p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Basu0132/online-learning-platform
 cd your-repository-name
 Backend Setup
 Navigate to the backend directory:
