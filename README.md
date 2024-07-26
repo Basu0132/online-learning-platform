@@ -34,40 +34,27 @@ cd your-repository-name
 Backend Setup
 Navigate to the backend directory:
 
-bash
-Copy code
 cd backend
 Install backend dependencies:
 
-bash
-Copy code
 npm install
 Create a .env file in the backend directory and add your MongoDB connection string:
 
-plaintext
-Copy code
-MONGO_URI=mongodb://localhost:27017/your-database-name
+
+MONGO_URI=mongodb://localhost:27017/data
 JWT_SECRET=your_jwt_secret
 Start the backend server:
 
-bash
-Copy code
 npm start
 Frontend Setup
 Navigate to the frontend directory:
 
-bash
-Copy code
 cd ../frontend
 Install frontend dependencies:
 
-bash
-Copy code
 npm install
 Start the frontend development server:
 
-bash
-Copy code
 npm start
 API Endpoints
 GET /api/courses: Retrieve a list of all courses
@@ -81,8 +68,6 @@ DELETE /api/courses/
 Running Tests
 You can run tests using:
 
-bash
-Copy code
 npm test
 Contributing
 We welcome contributions to improve the platform! Please follow these steps to contribute:
